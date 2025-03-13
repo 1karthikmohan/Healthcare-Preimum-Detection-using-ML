@@ -1,0 +1,10 @@
+
+```plaintext
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+openpyxl
+```
